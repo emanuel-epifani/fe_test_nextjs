@@ -25,3 +25,23 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+
+
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.sp_evenly {
+  display: flex;
+  justify-content: space-evenly; /*asse x*/
+  align-items: center; /*asse y*/
+}
+
+
+
+
